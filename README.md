@@ -1,5 +1,7 @@
 # NAME
 
+
+
 *backlight* — get and set the backlight brightness.
 
 # SYNOPSIS
